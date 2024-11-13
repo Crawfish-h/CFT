@@ -1,2 +1,2 @@
 # CFT
-A c project that adds a sort of dynamic type system.
+A c project that adds a sort of """dynamic""" type system.
