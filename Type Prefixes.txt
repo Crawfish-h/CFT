@@ -1,0 +1,3 @@
+F[...]: Complex structs/types. These must have many functions.
+T[...]: Simple structs/types. These usually have few functions and contain mostly variables.
+S[...]: Complex structs/types that contain some F Objects. S Objects are system objects that create core functionality for this program.
