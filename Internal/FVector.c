@@ -17,11 +17,9 @@ void* CFT_Vector_Get_(FVector* vector, long long index)
     
     if (index > -1)
     {
-        printf("index > -1\n");
         return vector->Elements_[index].Value_;
     }else
     {
-        printf("bro...\n");
         return vector->Elements_[vector->Size_ + index].Value_;
     }
 }
